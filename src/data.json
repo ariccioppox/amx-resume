@@ -1,0 +1,51 @@
+{
+    "header": {
+        "name": "Alice Moraes",
+        "jobTitle": "Junior Front-End Developer",
+        "phone": "+351 965-783-662",
+        "email": "amoraesx@proton.me",
+        "emailLink": "mailto:amoraesx@proton.me",
+        "website": "https://linktr.ee/amoraesx",
+        "websiteLink": "https://linktr.ee/amoraesx",
+        "location": "Remote from Portugal"
+    },
+    "about": {
+        "aboutHeading": "About Bit",
+        "aboutBody": "After a life & career change in 2019 where I started studying web development, I went ahead & short later grabbed small clients where I was able to create projects from scratch & learn through work. Later, I worked with customers on tech issues, constantly performing software testing & troubleshooting. Now, my career objective is to grow my web development career by working with great teams excited to pass their wisdom, within healthy businesses, & through dynamic & inspiring projects where I can improve myself while while positively impacting others."
+    },
+    "education": {
+        "eduHeading": "Education",
+        "school": "FMU | FIAM-FAAM",
+        "course": "Audiovisual Production",
+        "duration": "2010 - 1013"
+    },
+    "skills": {
+        "skHeading": "Skills",
+        "sk1": "HTML",
+        "sk2": "CSS",
+        "sk3": "JavaScript",
+        "sk4": "jQuery",
+        "sk5": "ReactJS",
+        "sk6": "Git/GitHub",
+        "sk7": "Linux"
+    },
+    "courses": {
+        "coursesHeading": "Courses",
+        "course1Title": "Web Development",
+        "course1School": "Skillcrush",
+        "course2Title": "Front-End Development",
+        "course2School": "freeCodeCamp"
+    },
+    "experience": {
+        "expHeading": "Experience",
+        "exp1Title": "Junior Front-End Developer",
+        "exp1Details": "Freelance @ Remote // 2022 - Present",
+        "exp1Body": "Creating, constructing, or maintaining websites & software applications while collaborating with other developers & teams for awesome people like you!",
+        "exp2Title": "Tech Support Agent",
+        "exp2Details": "Contract @ Remote // 2020 - 2022",
+        "exp2Body": "Ensured user satisfaction through log analysis & troubleshooting for software & hardware. Assisted with small front-end bugs, custom scripts, testing, & built & maintained documentation.",
+        "exp3Title": "Junior Front-End Developer",
+        "exp3Details": "Freelance @ Remote // 2019 - 2020",
+        "exp3Body": "Worked closely with clients to create small pages, blogs, & themes for different objectives. Contributed with ideas & built front-end solutions with HTML, CSS, JavaScript, & jQuery."
+    }
+}
