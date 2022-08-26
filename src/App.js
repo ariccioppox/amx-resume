@@ -14,7 +14,7 @@ function Resume() {
   
   return (
     <div>
-    <div className='topLink'><a href='' target='_blank'>Resume created with React and TailwindCSS</a></div>
+    <div className='topLink'><a href='https://github.com/ariccioppox/amx-resume' target='_blank'>Resume created with React and TailwindCSS</a></div>
     <div className="break-normal p-12">
       <Header data={ header } />
       <div className='bg-white opacity-90 p-16 text-black p-10'>
