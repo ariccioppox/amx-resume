@@ -1,6 +1,6 @@
 # React Resume
 
-[This React Resume](https://ariccioppox.github.io/os-resume) project was created as an alternative for creating the standard .pdf resume.
+[This React Resume](https://ariccioppox.github.io/amx-resume/) project was created as an alternative for creating the standard .pdf resume.
 
 This is a resume/CV for printing/saving as .pdf, it is not screen responsive.
 

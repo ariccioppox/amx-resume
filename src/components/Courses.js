@@ -1,7 +1,7 @@
 export default function Courses({data}) {
     return (
       <div className="mb-0">
-        <h2 className="bg-black text-cyan-250 font-bold rounded-xl w-fit mb-4">
+        <h2 className="bg-black text-cyan-250 font-bold rounded-lg w-fit mb-4">
           {data.coursesHeading}
         </h2>
         <div className="mb-4">

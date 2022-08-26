@@ -13,7 +13,9 @@ function Resume() {
   const { header, about, education, skills, courses, experience } = data;
   
   return (
-    <div className="break-normal m-14">
+    <div>
+    <div className='topLink'><a href='' target='_blank'>Resume created with React and TailwindCSS</a></div>
+    <div className="break-normal p-12">
       <Header data={ header } />
       <div className='bg-white opacity-90 p-16 text-black p-10'>
         <About data={ about } />
@@ -28,6 +30,7 @@ function Resume() {
           </div>
         </div>
       </div>
+    </div>
     </div>
   );
 }

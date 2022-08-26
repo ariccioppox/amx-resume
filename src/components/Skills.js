@@ -1,7 +1,7 @@
 export default function Skills({data}) {
     return (
       <div className="mb-8">
-        <h2 className="bg-black text-cyan-250 font-bold rounded-xl w-fit mb-4">
+        <h2 className="bg-black text-cyan-250 font-bold rounded-lg w-fit mb-4">
           {data.skHeading}
         </h2>
         <ul>

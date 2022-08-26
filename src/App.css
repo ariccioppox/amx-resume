@@ -3,7 +3,7 @@
 
 body {
   width: 100vw;
-  height: 100%;
+  height: 141vw;
   font-size: 14px;
   text-align: justify;
   font-weight: 300;
@@ -11,6 +11,7 @@ body {
   background-image: url('./assets/codebg.jpeg');
   background-position: center;
   background-size: 100vh;
+  font-family: 'Roboto Mono', monospace;
 }
 
 h1, h2, footer {
@@ -18,12 +19,12 @@ h1, h2, footer {
 }
 
 h3, h4, p, li {
-  font-family: 'Roboto Mono', monospace;
+  
 }
 
-h3, h4 {
+/* h3, h4 {
   line-height: 2rem;
-}
+} */
 
 p, ul {
   font-size: 1.5vw;
@@ -50,4 +51,16 @@ h4 {
 
 .lh-header {
   line-height: 3.5vw;
+}
+
+.topLink {
+  color: whitesmoke;
+  background: orangered;
+  text-align: center;
+  font-weight: 500;
+  padding: 0.1rem 0;
+}
+
+.topLink:hover {
+  text-decoration: underline;
 }
